@@ -1,0 +1,16 @@
+version = 1
+SPDX-PackageName = "mObywatel Mobilny"
+SPDX-PackageSupplier = "Organization: Centralny Ośrodek Informatyki"
+SPDX-PackageDownloadLocation = "https://www.mobywatel.gov.pl/kod-zrodlowy-mobywatel-mobilny"
+
+[[annotations]]
+path = ["Android/**", "iOS/**"]
+precedence = "closest"
+SPDX-FileCopyrightText = "2025 Centralny Ośrodek Informatyki"
+SPDX-License-Identifier = "LicenseRef-COI-MIT-PL"
+
+[[annotations]]
+path = ["rmackiewicz-mit.jpg"]
+precedence = "closest"
+SPDX-FileCopyrightText = "2025 Damian Fajfer <damian@fajfer.org>"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
